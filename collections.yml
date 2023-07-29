@@ -1,4 +1,4 @@
 collections:
-- label: 
-  data: collection1.yml
+- label: Adventurers
+  data: adventurers.yml
   image: 
