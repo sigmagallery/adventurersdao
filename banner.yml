@@ -1,8 +1,8 @@
 title: AdventurersDAO
 description: The AdventurersDAO is a decentralized autonomous organization (DAO) built on the Ergo blockchain.
+image: https://img2.sigma.gallery/adventurersdao/adventurers/d4745c42e27c08578fa935b00b14a59177dccb6cc6d8b037bda6f5774fa9a316.webp
 mintAddresses:
   - 9gMJ8RbWipcBaWQh1QV2i14BAf11M3JZqeTLwnamh8A7ud4DgHy
-image: https://img2.sigma.gallery/adventurersdao/adventurers/d4745c42e27c08578fa935b00b14a59177dccb6cc6d8b037bda6f5774fa9a316.webp
 bannerLinks:
   - label: Twitter
     url: https://twitter.com/AdventurersDAO
