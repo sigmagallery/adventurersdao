@@ -1,0 +1,661 @@
+nfts:
+- tokenId: d4745c42e27c08578fa935b00b14a59177dccb6cc6d8b037bda6f5774fa9a316
+  name: 'Adventurer #001'
+  description: |-
+    {
+        "721": {
+            "Adventurer #001": {
+                "Species": "Cat",
+                "Class": "Warrior",
+                "Rarity": "Epic",
+                "Clan": "Astronaut Alliance"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiclcm4zezyz5iewllg7mzvqiz2nqrf2i3xlidw6byc4vj6rvw3w7e
+- tokenId: 9bc211367239434418368daf142c639323d77724d9e1d9a6c5eb553cbfcd5996
+  name: 'Adventurer #002'
+  description: |-
+    {
+        "721": {
+            "Adventurer #002": {
+                "Species": "Dog",
+                "Class": "Guardian",
+                "Rarity": "Common",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihpdy4ysk7arfqg2umsqfdoruormrcuatyqfxnan27jkewc3ljuna
+- tokenId: 76ebe48caac21b9bbb446c3b710f0b5c912defbc3a64715a8a9a99e6e2fccf6d
+  name: 'Adventurer #003'
+  description: |-
+    {
+        "721": {
+            "Adventurer #003": {
+                "Species": "Cat",
+                "Class": "Supporter",
+                "Rarity": "Common",
+                "Clan": "Astronaut Alliance"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeic2t3tgphbuzj5fytfp2qgntpyyenmpowu44qxms46quq5pzznipq
+- tokenId: fcb72e0fbaa684fa0ff7705f46fcca3b0588866e736486a75d9f6779c4cea7e7
+  name: 'Adventurer #004'
+  description: |-
+    {
+        "721": {
+            "Adventurer #004": {
+                "Species": "Human",
+                "Class": "Warrior",
+                "Rarity": "Common",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigydkvvmny3pntbthng6rulmai5yr447arfuljg5eboajjomktvsa
+- tokenId: bd4834edfae8410fc5e32b35d14d95d8d3d81e484c3be2598c95b7bef9ddbfa3
+  name: 'Adventurer #005'
+  description: |-
+    {
+        "721": {
+            "Adventurer #005": {
+                "Species": "Human",
+                "Class": "Warrior",
+                "Rarity": "Rare",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiagvlt65iveufyzhpg3t4zkrvaaivxnri7mzpbz5rz3znc4tkgozu
+- tokenId: 973daa1e9dff180fb2a1257b06d46ed592ba7ae24b75c26ef88d0a8d35655f1c
+  name: 'Adventurer #006'
+  description: |-
+    {
+        "721": {
+            "Adventurer #006": {
+                "Species": "Hippo",
+                "Class": "Supporter",
+                "Rarity": "Rare",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeia44oxvju7gynhazptcrg5zzhqvbtgvdtrck3sfnb3teskrk6fvnq
+- tokenId: 6d874c828b0a830bb6cc8103ac774f3da1201c2526f07f59b8f1f9375fe3fa62
+  name: 'Adventurer #007'
+  description: |-
+    {
+        "721": {
+            "Adventurer #007": {
+                "Species": "Human",
+                "Class": "Supporter",
+                "Rarity": "Rare",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreigngbgzu5xbxppa35y74i3vl2krghob6kroiwar6ufxpgvvwjcnoy
+- tokenId: 68d6d60f06556f06ca411ce0f514fe9aa954db75ae58012b962dd5df30bf859c
+  name: 'Adventurer #008'
+  description: |-
+    {
+        "721": {
+            "Adventurer #008": {
+                "Species": "Human",
+                "Class": "Supporter",
+                "Rarity": "Epic",
+                "Clan": "Cultist"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihof2jx7pq4rhdvwnytg3lh5pscvs3352hxylr2lbpzg6trjvox2m
+- tokenId: cf2b42a59192ede3998cdcfad7d163d10fa707ee5b5a923c83b20c1b0bd91e0d
+  name: 'Adventurer #009'
+  description: |-
+    {
+        "721": {
+            "Adventurer #009": {
+                "Species": "Dog",
+                "Class": "Guardian",
+                "Rarity": "Common",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifmaoqborb6mjkv6acks2outlgxv2fvf3hxtepbmk5l7z4gbadkdm
+- tokenId: 86067bdae27c8769a08f25b0a6f5f55369e552229f138706c529955df15148dd
+  name: 'Adventurer #010'
+  description: |-
+    {
+        "721": {
+            "Adventurer #010": {
+                "Species": "Capybara",
+                "Class": "Warrior",
+                "Rarity": "Epic",
+                "Clan": "Samurai"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifym6tmjp5jg2rmlb2w7bhaihdtsnklevflp5b76uayaak2zzghly
+- tokenId: 1152c51a746822bb6f2461e2206fd17785a62c9119a988a73a146cfdd774d424
+  name: 'Adventurer #011'
+  description: |-
+    {
+        "721": {
+            "Adventurer #011": {
+                "Species": "Red panda",
+                "Class": "Supporter",
+                "Rarity": "Epic",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiapwdyjwjcbadftaoafj7thzia4kyfdk6wxgoknk3xro5kr2sjsfa
+- tokenId: e872c2278c1a891989a915aef8fd2ba5a7ff528b0d51d1b002c64510adf13722
+  name: 'Adventurer #012'
+  description: |-
+    {
+        "721": {
+            "Adventurer #012": {
+                "Species": "Human",
+                "Class": "Mage",
+                "Rarity": "Rare",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidjcaxm47h6ztxq67yzfu7aomes5arfbnrqxxmnhliewtblqortlm
+- tokenId: 4ca42d8fae3fb45f577ee23ed4b37d7159534f60d48b85d752845caf89555b5b
+  name: 'Adventurer #013'
+  description: |-
+    {
+        "721": {
+            "Adventurer #013": {
+                "Species": "Crocodile",
+                "Class": "Supporter",
+                "Rarity": "Epic",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihc67or4jg7uxm4ao32g6utctptqgqgsdyqeqp5d27hlwjn2hxnwu
+- tokenId: bfd5777a06194d36787606899d97dca0d13d11dbf0236edf67fd8d8ed6bfa31d
+  name: 'Adventurer #014'
+  description: |-
+    {
+        "721": {
+            "Adventurer #014": {
+                "Species": "Owl",
+                "Class": "Mage",
+                "Rarity": "Rare",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigpw5kcoivx5qi55sogjw4ath6g765tbxw4l4xig5f7kvvtcxxff4
+- tokenId: 0f80d25f2d29528c255e58d547bcc82457a288d29bfcba10e3c113fef9b02d32
+  name: 'Adventurer #015'
+  description: |-
+    {
+        "721": {
+            "Adventurer #015": {
+                "Species": "Human",
+                "Class": "Warrior",
+                "Rarity": "Common",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeif3eboi3dl3lyk62j4nan5qmqvrco7jpozghqoel5aztof2d4ygfy
+- tokenId: 57cc99dec63e15396491b2ccfd56d1e752963394eb3478abf4ce0bf0707b83bb
+  name: 'Adventurer #016'
+  description: |-
+    {
+        "721": {
+            "Adventurer #016": {
+                "Species": "Walrus",
+                "Class": "Warrior",
+                "Rarity": "Epic",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeich6qxuqxplzdzbpymfhamwmdnbm7ccbezrypcmdkh7cfevgxyj6y
+- tokenId: 37f0fd952cec667f400256376d6d8fe340b21de43eac614afc57a32bf1170989
+  name: 'Adventurer #017'
+  description: |-
+    {
+        "721": {
+            "Adventurer #017": {
+                "Species": "Fox",
+                "Class": "Supporter",
+                "Rarity": "Common",
+                "Clan": "Noble"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibxsxvcwvk6epnxxp6yyvn4h7erwk5pahq65yjf3cio644ap62mwu
+- tokenId: 983a03c6ca570c30ef516824110054e0301b8fdfffca9839d413148b0f1e063b
+  name: 'Adventurer #018'
+  description: |-
+    {
+        "721": {
+            "Adventurer #018": {
+                "Species": "Fish",
+                "Class": "Mage",
+                "Rarity": "Rare",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifzznvoyolo7hk6inc4swu45h4crdsax5n4okenigrzblnesf4y3y
+- tokenId: ba6e27df8996a9a1924649ce5ec43697a357bc71358cb741835afe2715355990
+  name: 'Adventurer #019'
+  description: |-
+    {
+        "721": {
+            "Adventurer #019": {
+                "Species": "Cat",
+                "Class": "Guardian",
+                "Rarity": "Common",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiftqkw4eofxqlfvivnhlff7cg622p4swloz7xbed46ltnr7rd5p24
+- tokenId: 15ff004186a0ebad7bdb3e9edc02ccc3c84eb60e253c0dd39475502b1902cb7a
+  name: 'Adventurer #020'
+  description: |-
+    {
+        "721": {
+            "Adventurer #020": {
+                "Species": "Goat",
+                "Class": "Warrior",
+                "Rarity": "Uncommon",
+                "Clan": "Samurai"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidokcwllzzgvlb6brwm4f7c2voba57t4fi4fl6ko3uyolinldyqfa
+- tokenId: a20b5520c3cb6f8fa4db8f5d6ac67cbbf4d81dcb750b19f7ddaf29aaabbacd04
+  name: 'Adventurer #021'
+  description: |-
+    {
+        "721": {
+            "Adventurer #021": {
+                "Species": "Rabbit",
+                "Class": "Supporter",
+                "Rarity": "Uncommon",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihtajyjgkfy7ykmll56vh3q6lyijhcevgmat5i3sf7etpso6rc3j4
+- tokenId: c29caa1cc8e49a07924839eb0fdf288e731e5725de50fe476d88265b1d867622
+  name: 'Adventurer #022'
+  description: |-
+    {
+        "721": {
+            "Adventurer #022": {
+                "Species": "Penguin",
+                "Class": "Supporter",
+                "Rarity": "Uncommon",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeih5g5wukfxmrm34pse3e4vpi2pqwrhplzqm63pfbwjzlzn5xpyehi
+- tokenId: 14ce7bf7c362b88c39f7dc8fbb4f2b2ea3bb57ef320170830a9ac76b3bd019ac
+  name: 'Adventurer #023'
+  description: |-
+    {
+        "721": {
+            "Adventurer #023": {
+                "Species": "Tiger",
+                "Class": "Guardian",
+                "Rarity": "Uncommon",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiclydgziuoan3s2xseljve3kmnt6m7o36dxiuqeexjraosnn3qanm
+- tokenId: e232dfcc6a8b8239d1952dbb2608a36332c1d03f54fdac6f8ed10f77e8fa8a82
+  name: 'Adventurer #024'
+  description: |-
+    {
+        "721": {
+            "Adventurer #024": {
+                "Species": "Otter",
+                "Class": "Warrior",
+                "Rarity": "Uncommon",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeieepytdjvfqjuxxwmujy66jpjdwbbrciepskv6bbdc2sudmjur63q
+- tokenId: a3510d727716344a02b5f5de9d6af62962a15b78ffdb6707df904d90d6c9c3ea
+  name: 'Adventurer #025'
+  description: |-
+    {
+        "721": {
+            "Adventurer #025": {
+                "Species": "Parrot",
+                "Class": "Warrior",
+                "Rarity": "Common",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiazowq74bezvgr7l5xbjwyh5wg4oczkhjz4rqkz4xppzupjdpyoca
+- tokenId: c1a69a7473eb8360d35237016632a0180fc88100c496b7f1938c2ea705bdc95f
+  name: 'Adventurer #026'
+  description: |-
+    {
+        "721": {
+            "Adventurer #026": {
+                "Species": "Raven",
+                "Class": "Mage",
+                "Rarity": "Common",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiaxill5ryjjku4pi36d3al5lkscceg5xrymlbx2rcy6574l6ftsqa
+- tokenId: 7d669b3c5cfa0e6ae85007867ecd93ccd3729a4c1c98b3f07185f6dacd71a0aa
+  name: 'Adventurer #027'
+  description: |-
+    {
+        "721": {
+            "Adventurer #027": {
+                "Species": "Human",
+                "Class": "Supporter",
+                "Rarity": "Epic",
+                "Clan": "Cultist"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidunhnybvemcz4hbr74upa7pyhjnkelgikgzdl73jy3nfhods3uiy
+- tokenId: 2a1fac25ed82e43312f18eaaa9cecabdde45201453e5e7314626ddc9f8fa6425
+  name: 'Adventurer #028'
+  description: |-
+    {
+        "721": {
+            "Adventurer #028": {
+                "Species": "Dog",
+                "Class": "Warrior",
+                "Rarity": "Common",
+                "Clan": "Vikings"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidegdzalpsuejkv4okdojcjzs7ubasu2mju4rq5ade2h4o2virs54
+- tokenId: c1493385975a80785acda3409c1b5c131f86543e26e764b230fb77ea6cd1c85d
+  name: 'Adventurer #029'
+  description: |-
+    {
+        "721": {
+            "Adventurer #029": {
+                "Species": "Bison",
+                "Class": "Supporter",
+                "Rarity": "Common",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigevfd4vosyrxssmei2gw3vbmgyb2weo5itaelhy2jan5ooqbuqsq
+- tokenId: fbf1aa3ad758e024876911ad69fca8e2e8b45784ece5055524f11a3f8b8739ca
+  name: 'Adventurer #030'
+  description: |-
+    {
+        "721": {
+            "Adventurer #030": {
+                "Species": "Mole",
+                "Class": "Supporter",
+                "Rarity": "Uncommon",
+                "Clan": "Miner"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeif7zdni35sfc55ve6uzwthbw5wnrwa75fwbdqsud6od4kqydzkbku
+- tokenId: 450a5f6ec8c7e17aa7dfa98d6014244223cf440f27bb62bbd6a668e8a031dd6a
+  name: 'Adventurer #031'
+  description: |-
+    {
+        "721": {
+            "Adventurer #031": {
+                "Species": "Shark",
+                "Class": "Guardian",
+                "Rarity": "Uncommon",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibfrrogjjyfrbkzw67rzzjbbenku2kmsavpk3ydpfvyksv7yan3ea
+- tokenId: b5a0c74175f6ae42aff71fe3fb70fa54daacc72edb23147fe2c6b8ee611b87f2
+  name: 'Adventurer #032'
+  description: |-
+    {
+        "721": {
+            "Adventurer #032": {
+                "Species": "Cattle",
+                "Class": "Supporter",
+                "Rarity": "Common",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeie2yohhfidatztaua3qecnod6s3fx6pq5pjv2harghwg3yosoh74m
+- tokenId: d875b27c2597151662f00ed80671fb3eac70949a35eba58a3af527d47cc633f5
+  name: 'Adventurer #033'
+  description: |-
+    {
+        "721": {
+            "Adventurer #033": {
+                "Species": "Human",
+                "Class": "Mage",
+                "Rarity": "Common",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibdbynyw3a5yfmpn5qr4demu6hvvhjgbui7glagteows24fyl44ke
+- tokenId: c0bd792519f964983c174e129dce12628d92bd8c857af7ebc0d8ede71efb9189
+  name: 'Adventurer #034'
+  description: |-
+    {
+        "721": {
+            "Adventurer #034": {
+                "Species": "Wolf",
+                "Class": "Mage",
+                "Rarity": "Common",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigdqn2jxsw5ft25bx22srnh5wfkb7xgbztk2kwdpvxnd2lyxvn4di
+- tokenId: cd179cf61bb714549a18cb13b8563aeb587f0999c53dd017366791f12a0c13f2
+  name: 'Adventurer #035'
+  description: |-
+    {
+        "721": {
+            "Adventurer #035": {
+                "Species": "Fox",
+                "Class": "Mage",
+                "Rarity": "Uncommon",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeieus5ubnysik5s2q2whtxxxrrkdtqsuc7txhf5ssgprqxizskvl5m
+- tokenId: 9bd0e2d22138b35b724fc3801444943908d5673378d1cef2d392adaffca5697c
+  name: 'Adventurer #036'
+  description: |-
+    {
+        "721": {
+            "Adventurer #036": {
+                "Species": "Cat",
+                "Class": "Guardian",
+                "Rarity": "Rare",
+                "Clan": "The Shadow Hand"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifp2w6pdtfylxwcctr63up2em2a7gx35ou2wegnfn5msqe6ckmsta
+- tokenId: 6a1020f1d44ccf2cdafa252253b2f5323df18a7e2013af57ca89e1a869c4e9f3
+  name: 'Adventurer #037'
+  description: |-
+    {
+        "721": {
+            "Adventurer #037": {
+                "Species": "Raccoon",
+                "Class": "Guardian",
+                "Rarity": "Common",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibewfdd5kpsgb647niom2gfv7ecefks3cfcmwalmn2hfz2mw2v2km
+- tokenId: b62d898c7f613c5af3d9152244b7c1ed8b17df63f0efa0c0f259d05b9c1d512e
+  name: 'Adventurer #038'
+  description: |-
+    {
+        "721": {
+            "Adventurer #038": {
+                "Species": "Cat",
+                "Class": "Mage",
+                "Rarity": "Common",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiel7iwntpuz3cync3hi5xcihwcsi4wtd7h75ebpu426hw7guas5fa
+- tokenId: b93c25b26b03165f58dbf93887cebe5c70c8b891585c22545392ccfca64e292e
+  name: 'Adventurer #039'
+  description: |-
+    {
+        "721": {
+            "Adventurer #039": {
+                "Species": "Wolf",
+                "Class": "Guardian",
+                "Rarity": "Uncommon",
+                "Clan": "Vikings"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihki2pyb6mhfk7p3efytlb776u6td3kayjlz4ojrp22fnuuhg57cq
+- tokenId: 072565979c4b8b5cc2beac9606a8c32d8f3fe019f0c8250a02fc7d12425162b5
+  name: 'Adventurer #040'
+  description: |-
+    {
+        "721": {
+            "Adventurer #040": {
+                "Species": "Cat",
+                "Class": "Mage",
+                "Rarity": "Common",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiahu6fypmw6ff4qiv2qetvy7cl757i6slwqszu2qhgtxsdizad4ni
+- tokenId: f6cc1b5083e7484c269c7e63968fdd01873705a5902c517944840bc8a6943ab2
+  name: 'Adventurer #041'
+  description: |-
+    {
+        "721": {
+            "Adventurer #041": {
+                "Species": "Human",
+                "Class": "Mage",
+                "Rarity": "Common",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibw5twrjeqncghs66d2zymfhlol4n3w7adjbiabqq5tvhxu33oiyi
+- tokenId: e20dfdde21033d790ad204cd249ea6b7c22fb34c2e07b89bac2926dedc123485
+  name: 'Adventurer #042'
+  description: |-
+    {
+        "721": {
+            "Adventurer #042": {
+                "Species": "Human",
+                "Class": "Warrior",
+                "Rarity": "Uncommon",
+                "Clan": "Vikings"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifqk54tkaxwfg3ihxgymy3tfgzyolpp4ky3fm62vi2sbpkgwtzht4
+- tokenId: 8c52df52b9da19206f5f5066423e34f7a0c6f125ac044b2fa01a9ebf8fc867a4
+  name: 'Adventurer #043'
+  description: |-
+    {
+        "721": {
+            "Adventurer #043": {
+                "Species": "Tortoise",
+                "Class": "Supporter",
+                "Rarity": "Uncommon",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeid7ixmlfwzyc26pq5a7sjjlvmhfrrygmaya7h2ioporhigdffjqn4
+- tokenId: 4ef73ad1c67baebd30ea0d84a4026d612db20967782f2e340c537da3c168220b
+  name: 'Adventurer #044'
+  description: |-
+    {
+        "721": {
+            "Adventurer #044": {
+                "Species": "Horse",
+                "Class": "Supporter",
+                "Rarity": "Common",
+                "Clan": "None"
+            }
+        }
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeietgwtevwd5fsrfxe6ozivr2qkr6ycjjgovdql43tdebdiwsqfrni
